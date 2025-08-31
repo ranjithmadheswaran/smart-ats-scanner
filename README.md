@@ -25,8 +25,8 @@ Follow these steps to get the application running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/ranjithmadheswaran/smart-ats-scanner.git
+cd smart-ats-scanner
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
